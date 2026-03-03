@@ -3,6 +3,11 @@ Car-Bus Research Game CS298 (ongoing)
 
 # Deep Reinforcement Learning for Crash-Cost Driving Game
 
+**Author:** Samarah Hiba  
+**Institution:** University of Wisconsin–Madison  
+**Research Project:** CS298 (AI Research)
+
+---
 ## Research Questions
 1. Do policy gradient methods converge in zero-sum Markov games?
 2. Does REINFORCE exhibit policy oscillation?
@@ -32,7 +37,3 @@ This work explores convergence behavior in zero-sum Markov games and policy osci
 - Averaging strategies converge toward mixed equilibrium
 - Comparison plots included
 
-### Author
-- Samarah Hiba
-- University of Wisconsin–Madison
-- AI/ML Research
