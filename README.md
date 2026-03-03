@@ -33,6 +33,6 @@ This work explores convergence behavior in zero-sum Markov games and policy osci
 - Comparison plots included
 
 ### Author
-Samarah Hiba
-University of Wisconsin–Madison
-AI/ML Research
+- Samarah Hiba
+- University of Wisconsin–Madison
+- AI/ML Research
