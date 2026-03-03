@@ -1,4 +1,4 @@
-# Initial-research-upload-REINFORCE-vs-A2C-experiments
+# Zero-Sum Policy Gradient Methods for Crash-Cost Markov Games
 Car-Bus Research Game CS298 (ongoing) 
 
 # Deep Reinforcement Learning for Crash-Cost Driving Game
