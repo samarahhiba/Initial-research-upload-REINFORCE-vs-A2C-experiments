@@ -1,8 +1,6 @@
 # Zero-Sum Policy Gradient Methods for Crash-Cost Markov Games
 Car-Bus Research Game CS298 (ongoing) 
 
-# Deep Reinforcement Learning for Crash-Cost Driving Game
-
 **Author:** Samarah Hiba  
 **Institution:** University of Wisconsin–Madison  
 **Research Project:** CS298 (AI Research)
