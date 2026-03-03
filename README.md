@@ -1,5 +1,5 @@
 # Zero-Sum Policy Gradient Methods for Crash-Cost Markov Games
-Car-Bus Research Game CS298 (ongoing) 
+Car-Bus and Rock-Paper-Scissors Research Game CS298 (ongoing) 
 
 **Author:** Samarah Hiba  
 **Institution:** University of Wisconsin–Madison  
