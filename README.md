@@ -3,6 +3,13 @@ Car-Bus Research Game CS298 (ongoing)
 
 # Deep Reinforcement Learning for Crash-Cost Driving Game
 
+## Research Questions
+1. Do policy gradient methods converge in zero-sum Markov games?
+2. Does REINFORCE exhibit policy oscillation?
+3. Does A2C stabilize training compared to vanilla policy gradients?
+4. How does crash-cost magnitude affect equilibrium behavior?
+
+
 ## Overview
 This project implements:
 - REINFORCE
