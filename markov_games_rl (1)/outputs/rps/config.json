@@ -1,0 +1,14 @@
+{
+  "seed": 0,
+  "gamma": 0.95,
+  "lr": 0.001,
+  "batch_size": 64,
+  "replay_size": 50000,
+  "target_update": 250,
+  "epsilon_start": 1.0,
+  "epsilon_end": 0.05,
+  "epsilon_decay_steps": 10000,
+  "max_steps_per_episode": 1,
+  "episodes": 120,
+  "device": "cpu"
+}
