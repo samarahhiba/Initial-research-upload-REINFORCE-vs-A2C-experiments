@@ -1,3 +1,6 @@
+- **Minimax-DQN**: Learns Q(s, a_1, a_2) and computes equilibrium strategies via linear programming at each state
+- **REINFORCE**: Policy gradient method applied to competitive environments
+- **Advantage Actor-Critic (A2C)**: Actor-critic method for improved stability and variance reduction
 
 # Markov Games: Minimax-DQN, REINFORCE, and A2C (RPS + Car-Bus)
 
