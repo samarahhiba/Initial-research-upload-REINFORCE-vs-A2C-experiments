@@ -35,3 +35,9 @@ This work explores convergence behavior in zero-sum Markov games and policy osci
 - Averaging strategies converge toward mixed equilibrium
 - Comparison plots included
 
+## Key Findings
+
+- A2C demonstrates faster initial learning but exhibits oscillatory instability due to non-stationary opponent policies.
+- REINFORCE shows higher variance and slower convergence, consistent with theoretical expectations.
+- Increasing crash-cost amplifies instability and delays convergence toward equilibrium behavior.
+
